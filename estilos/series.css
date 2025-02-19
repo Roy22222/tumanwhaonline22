@@ -1,0 +1,81 @@
+.caja_principal{
+
+    width: 98%;
+    height: 4500px;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+.caja_principal .caja1{
+    background-color: rgb(223, 223, 224,0.3);
+    width: 350px;
+    height: 650px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.caja1 img{
+    margin-top: 35px;
+    margin-left: 30px;
+    width: 250px;
+    height: 450px;
+}
+.caja1 .titulo{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.caja1 .capitulo{
+    text-align: center;
+
+}
+.capitulo span{
+    background-color: #e08b5a;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.caja_principal .caja3{
+
+    width: 70%;
+    height: 90px;
+    margin-left: 7%;
+    
+}
+.caja3 ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.caja4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.caja4 p{
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-right: 50px;
+    color: rgb(230, 97, 8);
+    
+}
+.caja3 li{
+    width: 40%;
+    height: 90%;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+.caja3 ul p{
+    margin-left: 10px;
+    padding-left: 30px;
+    border: 1px dashed rgb(230, 97, 8,0.5);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+   
+}
+.caja3 span{
+    margin-left: 50%;
+    color: rgb(136, 133, 133);
+}

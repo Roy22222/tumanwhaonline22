@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #2b2a2a;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+
+.sinop_desarrollo{
+    color: aliceblue;
+}
